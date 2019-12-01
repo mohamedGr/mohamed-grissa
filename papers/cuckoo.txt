@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7368280, 
+author={M. Grissa and A. A. Yavuz and B. Hamdaoui}, 
+booktitle={Computer Networks and Information Security (WSCNIS), 2015 World Symposium on}, 
+title={Cuckoo filter-based location-privacy preservation in database-driven cognitive radio networks}, 
+year={2015}, 
+pages={1-7}, 
+keywords={cognitive radio;data privacy;filtering theory;query processing;radio spectrum management;wireless channels;cuckoo filter-based location-privacy preservation;database query;database-driven cognitive radio network;geo-location database-driven CRN;high communication overhead;licensed channel;secondary user;spectrum availability;vacant channel opportunity exploitation;Data privacy;Databases;Information filters;Privacy;Protocols;Sensors;Cuckoo Filter;Database-driven spectrum availability;cognitive radio networks;location privacy preservation}, 
+doi={10.1109/WSCNIS.2015.7368280}, 
+month={Sept},}

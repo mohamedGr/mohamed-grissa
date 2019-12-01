@@ -1,0 +1,10 @@
+@article{grissa2017location,
+  title={Location privacy in cognitive radio networks: a survey},
+  author={Grissa, Mohamed and Hamdaoui, Bechir and Yavuz, Attila},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={},
+  number={},
+  pages={},
+  year={2017},
+  publisher={IEEE}
+}

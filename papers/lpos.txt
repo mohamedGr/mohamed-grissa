@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7417611, 
+author={M. Grissa and A. Yavuz and B. Hamdaoui}, 
+booktitle={2015 IEEE Global Communications Conference (GLOBECOM)}, 
+title={LPOS: Location Privacy for Optimal Sensing in Cognitive Radio Networks}, 
+year={2015}, 
+pages={1-6}, 
+keywords={cognitive radio;telecommunication security;wireless channels;CRN;LPOS scheme;SU;channel opportunities;cognitive radio networks;cooperative spectrum sensing;licensed channel resources;location privacy for optimal sensing;location privacy threats;secondary users;Encryption;Fault tolerance;Fault tolerant systems;Privacy;Sensors}, 
+doi={10.1109/GLOCOM.2015.7417611}, 
+month={Dec},}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{6049388, 
+author={M. Grissa and R. Abdelfattah and G. Mercier and M. Zribi and A. Chahbi and Z. Lili-Chabaane}, 
+booktitle={Geoscience and Remote Sensing Symposium (IGARSS), 2011 IEEE International}, 
+title={Empirical model for soil salinity mapping from SAR data}, 
+year={2011}, 
+pages={1099-1102}, 
+keywords={electrical conductivity;remote sensing by radar;soil;statistical analysis;synthetic aperture radar;Envisat satellite;Kairouan;Tunisia;desertification;field electrical conductivity measures;gaussian mixture model;land degradation process;multiband intensity HH SAR data;multiband intensity VV SAR data;natural disasters;saline soil samples;soil salinity change mapping;soil salinity change tracking;soil salinity mapping empirical model;soil salinization;statistical moments;synthetic aperture radar data;Conductivity;Remote sensing;Soil;Soil measurements;Support vector machines;Synthetic aperture radar;SAR;electrical conductivity;mapping;mixture model;soil salinity}, 
+doi={10.1109/IGARSS.2011.6049388}, 
+ISSN={2153-6996}, 
+month={July},}

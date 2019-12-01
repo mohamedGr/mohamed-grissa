@@ -1,0 +1,7 @@
+@article{grissa2016preserving,
+  title={Preserving the Location Privacy of Secondary Users in Cooperative Spectrum Sensing},
+  author={Grissa, Mohamed and Yavuz, Attila and Hamdaoui, Bechir},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2016},
+  publisher={IEEE}
+}
