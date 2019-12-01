@@ -1,0 +1,8 @@
+@inproceedings{grissa2016efficient,
+  title={An efficient technique for protecting location privacy of cooperative spectrum sensing users},
+  author={Grissa, Mohamed and Yavuz, Attila and Hamdaoui, Bechir},
+  booktitle={Computer Communications Workshops (INFOCOM WKSHPS), 2016 IEEE Conference on},
+  pages={915--920},
+  year={2016},
+  organization={IEEE}
+}
